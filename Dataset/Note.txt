@@ -1,0 +1,9 @@
+Columns chr___: 1254 CpG sites
+
+Columns y: 
+	0: normal sample,
+	1: insignificant tumor,
+	2: significant tumor
+
+Rows: 334 samples
+
