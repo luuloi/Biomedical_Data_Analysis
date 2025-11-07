@@ -5,4 +5,6 @@
 - [PDF](Lecture_00/Lecture_00_Data_Science_Introduction_2025Nov05.pdf)
 - [Youtube: Xét nghiệm gen hay xem bói 4.0?](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
 
-[**01. Explainable AI (XAI) and Linear Regression [Loi] - 07/11/2025**](Lecture_01/)
+[**01. Feature Selection in Machine Learning for BioMedical Data [Loi] - 07/11/2025**](Lecture_01/)
+
+[**04. Explainable AI (XAI) and Linear Regression [Loi] - 14/11/2025**](Lecture_04/)
