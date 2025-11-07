@@ -6,5 +6,10 @@
 - [Youtube: Xét nghiệm gen hay xem bói 4.0?](https://www.youtube.com/watch?v=Qac1Bd8V8_I)
 
 [**01. Feature Selection in Machine Learning for BioMedical Data [Loi] - 07/11/2025**](Lecture_01/)
+- [Feature Selection](Lecture_01/Lecture01_FeatureSelection.pdf)
+- [GWAS](Lecture_01/Introduction_to_GWAS.pdf)
+- [Dataset1: DNA_methylation_beta_value](Dataset/)
+- [Dataset2: DNA_methylation_beta_value](Dataset/)
+- [Dataset3: DNA_methylation_beta_value](Dataset/)
 
 [**04. Explainable AI (XAI) and Linear Regression [Loi] - 14/11/2025**](Lecture_04/)
