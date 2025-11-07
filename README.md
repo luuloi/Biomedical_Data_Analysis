@@ -8,8 +8,9 @@
 [**01. Feature Selection in Machine Learning for BioMedical Data [Loi] - 07/11/2025**](Lecture_01/)
 - [Feature Selection](Lecture_01/Lecture01_FeatureSelection.pdf)
 - [GWAS](Lecture_01/Introduction_to_GWAS.pdf)
-- [Dataset1: DNA_methylation_beta_value](Dataset/)
-- [Dataset2: DNA_methylation_beta_value](Dataset/)
-- [Dataset3: DNA_methylation_beta_value](Dataset/)
+- Exercises:
+    - [Dataset 1: DNA methylation](Dataset/DNA_methylation_beta_value.csv)
+    - [Dataset 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
+    - [Dataset 3: Breast cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida)
 
 [**04. Explainable AI (XAI) and Linear Regression [Loi] - 14/11/2025**](Lecture_04/)
