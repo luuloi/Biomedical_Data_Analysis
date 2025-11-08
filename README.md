@@ -24,10 +24,10 @@
 
 [**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi] - 14/11/2025; ROOM I.91**](Lecture_05/)
 - [PDF](Lecture_05/)
+- [Logistic Regression](Lecture_06/)
 
 [**06. An introudction to Interpretable Machine Learning [Loi] - 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/)
-- [Logistic Regression](Lecture_06/)
 - [Spatial Autocorrelation and Moran's I](Lecture_06/)
 
 [**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
