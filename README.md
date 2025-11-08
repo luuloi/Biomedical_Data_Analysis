@@ -33,7 +33,7 @@
 [**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
 - [PDF](Lecture_07/)
 
-[**08. Deep Learning and Feature Visualization [Han] - 18PM 21/11/2025; ROOM I.91**](Lecture_08/)
+[**08. Deep Learning and Feature Visualization [Han, Phi] - 18PM 21/11/2025; ROOM I.91**](Lecture_08/)
 - [PDF](Lecture_08/)
 
 [**09. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy] - 2PM 22/11/2025; ROOM I.11b**](Lecture_09/)
