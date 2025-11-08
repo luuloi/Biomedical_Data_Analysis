@@ -13,4 +13,7 @@
     - [Dataset 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
     - [Dataset 3: Breast cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida)
 
+[**02. Filter and Embedded Methods for Feature Selection [Loi] - 08/11/2025**](Lecture_02/)
+- [PDF](Lecture_02/Lecture02_Filter_Embedded_Methods.pdf)
+
 [**04. Explainable AI (XAI) and Linear Regression [Loi] - 14/11/2025**](Lecture_04/)
