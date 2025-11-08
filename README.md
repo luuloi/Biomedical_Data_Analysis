@@ -1,4 +1,4 @@
-### Môn học "Phân Tích Dữ Liệu Chuyên Biệt" khóa K34, Lớp Cao Học Khoa Học Dữ Liệu - HCMUS
+### Môn học "Phân Tích Dữ Liệu Chuyên Biệt" khóa K34, Lớp Cao Học Khoa Học Dữ Liệu - HCMUS, tại 227 Nguyễn Văn Cừ Q5 TPHCM
 # Module I: Phân Tích Dữ Liệu Y Sinh - Biomedical Data Analysis
 
 [**00. Giới thiệu môn học Phân tích dữ liệu chuyên biệt [Loi] - 05/11/2025; ROOM I91**](Lecture_00/)
