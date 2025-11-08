@@ -1,4 +1,4 @@
-<img width="1721" height="275" alt="image" src="https://github.com/user-attachments/assets/2bd94415-08a2-4cc4-bbef-1f2add6086b8" />### Môn học "Phân Tích Dữ Liệu Chuyên Biệt" khóa K34, Lớp Cao Học Khoa Học Dữ Liệu - HCMUS
+### Môn học "Phân Tích Dữ Liệu Chuyên Biệt" khóa K34, Lớp Cao Học Khoa Học Dữ Liệu - HCMUS
 # Module I: Phân Tích Dữ Liệu Y Sinh - Biomedical Data Analysis
 
 [**00. Giới thiệu môn học Phân tích dữ liệu chuyên biệt [Loi] - 05/11/2025; ROOM I91**](Lecture_00/)
@@ -22,7 +22,7 @@
 [**04. Foundation of Information Theory [Loi] - 12/11/2025; ROOM I.91**](Lecture_04/)
 - [PDF](Lecture_04/)
 
-[**05. Embedded Methods (Feature Importance using RandomForest) for Feature Selection [Loi] - 14/11/2025; ROOM I.91**](Lecture_05/)
+[**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi] - 14/11/2025; ROOM I.91**](Lecture_05/)
 - [PDF](Lecture_05/)
 
 [**06. An introudction to Interpretable Machine Learning [Loi] - 15/11/2025; ROOM I.11b**](Lecture_06/)
