@@ -27,6 +27,8 @@
 
 [**06. An introudction to Interpretable Machine Learning [Loi] - 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/)
+- [Logistic Regression](Lecture_06/)
+- [Spatial Autocorrelation and Moran's I](Lecture_06/)
 
 [**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
 - [PDF](Lecture_07/)
