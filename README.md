@@ -19,14 +19,14 @@
 [**03. Embedded Methods (Lasso) for Feature Selection [Loi] - 08/11/2025; ROOM I.11b**](Lecture_03/)
 - [PDF](Lecture_03/Lecture03_Embedded_Methods.pdf)
 
-[**04. Foundation of Information Theory [Loi] - 12/11/2025; ROOM I.91**](Lecture_04/)
+[**04. Foundation of Information Theory [Loi] - 18PM 12/11/2025; ROOM I.91**](Lecture_04/)
 - [PDF](Lecture_04/)
 
-[**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi, Thiên] - 14/11/2025; ROOM I.91**](Lecture_05/)
+[**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi, Thiên, Quan] - 18PM 14/11/2025; ROOM I.91**](Lecture_05/)
 - [PDF](Lecture_05/)
 - [Logistic Regression](Lecture_06/)
 
-[**06. An introudction to Interpretable Machine Learning [Loi] - 15/11/2025; ROOM I.11b**](Lecture_06/)
+[**06. An introudction to Interpretable Machine Learning [Loi] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/)
 - [Spatial Autocorrelation and Moran's I](Lecture_06/)
 
