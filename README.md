@@ -23,7 +23,7 @@
 - [PDF](Lecture_04/)
 
 [**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi, Thiên, Quan] - 18PM 14/11/2025; ROOM I.91**](Lecture_05/)
-- [PDF](Lecture_05/)
+- [PDF](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/Lecture05_Embedded_Methods_FI_RandomForest.pdf)
 - [Logistic Regression](Lecture_06/)
 - [PDF - COMER_score](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/COMER_V3.0.pdf)
 
