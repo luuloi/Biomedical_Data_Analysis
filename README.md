@@ -7,7 +7,7 @@
 
 [**01. Feature Selection in Machine Learning for BioMedical Data [Loi] - 07/11/2025; ROOM I91**](Lecture_01/)
 - [Feature Selection](Lecture_01/Lecture01_FeatureSelection.pdf)
-- [GWAS](Lecture_01/Introduction_to_GWAS.pdf)
+- [Introduction to GWAS](Lecture_01/Introduction_to_GWAS.pdf)
 - Exercises:
     - [Dataset 1: DNA methylation](Dataset/DNA_methylation_beta_value.csv)
     - [Dataset 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
