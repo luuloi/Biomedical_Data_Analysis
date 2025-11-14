@@ -20,7 +20,7 @@
 - [PDF](Lecture_03/Lecture03_Embedded_Methods.pdf)
 
 [**04. Foundation of Information Theory [Loi] - 18PM 12/11/2025; ROOM I.91**](Lecture_04/)
-- [PDF](Lecture_04/)
+- [PDF](Lecture_04/Lecture04_Foundation_Information_Theory.pdf)
 
 [**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi, Thiên, Quan] - 18PM 14/11/2025; ROOM I.91**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/Lecture05_Embedded_Methods_FI_RandomForest.pdf)
