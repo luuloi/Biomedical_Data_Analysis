@@ -24,15 +24,17 @@
 
 [**05. Embedded Methods (Feature Importance using Random Forest) for Feature Selection [Loi, Thiên] - 18PM 14/11/2025; ROOM I.91**](Lecture_05/)
 - [PDF](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/Lecture05_Embedded_Methods_FI_RandomForest.pdf)
-- [PDF - COMER_score](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/COMER_V3.0.pdf)
+- [COVID-19 servere detection and COMER_score](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/COMER_V3.0.pdf)
 
-[**06. An introudction to Interpretable Machine Learning [Loi, Quan] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
+[**06. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/)
 - [Logistic Regression](Lecture_06/)
-- [Spatial Autocorrelation and Moran's I](Lecture_06/)
+- [Classfification of Endometrial Cancer](Lecture_06/)
+- [Micro-deletion detection: simulation and detection](Lecture_06/)
 
 [**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
 - [PDF](Lecture_07/)
+- [Spatial Autocorrelation and Moran''s I](Lecture_07/)
 
 [**08. Deep Learning and Feature Visualization [Han, Phi] - 18PM 21/11/2025; ROOM I.91**](Lecture_08/)
 - [PDF](Lecture_08/)
