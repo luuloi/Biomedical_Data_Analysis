@@ -27,8 +27,8 @@
 - [COVID-19 servere detection and COMER_score](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/COMER_V3.0.pdf)
 
 [**06. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
-- [PDF](Lecture_06/)
-- [Logistic Regression](Lecture_06/)
+- [PDF](Lecture_06/Lecture06_Interpretable_Machine_Learning.pdf)
+- [Logistic Regression](Lecture_06/Lecture06_Logistic_Regression.pdf)
 - [Classfification of Endometrial Cancer](Lecture_06/)
 - [Fetal micro-deletion: simulation and detection](Lecture_06/)
 
