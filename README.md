@@ -31,7 +31,7 @@
 
 [**07. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_07/)
 - [PDF](Lecture_07/Lecture07_Interpretable_Machine_Learning.pdf)
-- [Classfification of Endometrial Cancer](Lecture_07/)
+- [Classfification of Endometrial Cancer subtypes using DNA methylation](Lecture_07/)
 - [Fetal micro-deletion: simulation and detection in NIPT](Lecture_07/)
 
 [**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
