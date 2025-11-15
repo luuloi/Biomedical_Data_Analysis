@@ -26,30 +26,34 @@
 - [PDF](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/Lecture05_Embedded_Methods_FI_RandomForest.pdf)
 - [COVID-19 servere detection and COMER_score](https://github.com/luuloi/Biomedical_Data_Analysis/blob/main/Lecture_05/COMER_V3.0.pdf)
 
-[**06. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
-- [PDF](Lecture_06/Lecture06_Interpretable_Machine_Learning.pdf)
-- [Logistic Regression](Lecture_06/Lecture06_Logistic_Regression.pdf)
-- [Classfification of Endometrial Cancer](Lecture_06/)
-- [Fetal micro-deletion: simulation and detection](Lecture_06/)
+[**06. Logistic Regression and Odds Ratio [Loi] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
+- [PDF](Lecture_06/Lecture06_Logistic_Regression.pdf)
 
-[**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
-- [PDF](Lecture_07/)
-- [Spatial Autocorrelation and Moran''s I](Lecture_07/)
+[**07. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_07/)
+- [PDF](Lecture_07/Lecture07_Interpretable_Machine_Learning.pdf)
+- [Classfification of Endometrial Cancer](Lecture_07/)
+- [Fetal micro-deletion: simulation and detection in NIPT](Lecture_07/)
 
-[**08. Deep Learning and Feature Visualization [Han, Phi] - 18PM 21/11/2025; ROOM I.91**](Lecture_08/)
+[**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
 - [PDF](Lecture_08/)
 
-[**09. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy] - 2PM 22/11/2025; ROOM I.11b**](Lecture_09/)
+[**09. Deep Learning and Feature Visualization [Han, Phi, Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_09/)
 - [PDF](Lecture_09/)
 
-[**10. Large Language Model in genetic variant classification  [Hong] - 3PM 22/11/2025; ROOM I.11b**](Lecture_10/)
+[**10. Spatial Analysis: Spatial Autocorrelation and Moran's I [Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_10/)
 - [PDF](Lecture_10/)
 
-[**11. Course Review  [Loi] - 4PM 22/11/2025; ROOM I.11b**](Lecture_11/)
+[**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 22/11/2025; ROOM I.11b**](Lecture_11/)
 - [PDF](Lecture_11/)
 
-[**12. Master Thesis Projects  [Loi] - 4PM15 22/11/2025; ROOM I.11b**](Lecture_12/)
+[**12. Large Language Model in genetic variant classification  [Hong, Loi] - 3PM 22/11/2025; ROOM I.11b**](Lecture_12/)
 - [PDF](Lecture_12/)
+
+[**13. Course Review  [Loi] - 4PM 22/11/2025; ROOM I.11b**](Lecture_13/)
+- [PDF](Lecture_11/)
+
+[**14. Master Thesis Projects  [Loi] - 4PM15 22/11/2025; ROOM I.11b**](Lecture_14/)
+- [PDF](Lecture_14/)
 
 
 
