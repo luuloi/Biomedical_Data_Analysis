@@ -30,7 +30,7 @@
 - [PDF](Lecture_06/)
 - [Logistic Regression](Lecture_06/)
 - [Classfification of Endometrial Cancer](Lecture_06/)
-- [Micro-deletion detection: simulation and detection](Lecture_06/)
+- [Fetal micro-deletion: simulation and detection](Lecture_06/)
 
 [**07. An introduction to explainable AI (XAI) with Shapley values [Thanh] - 18PM 19/11/2025; ROOM I.91**](Lecture_07/)
 - [PDF](Lecture_07/)
