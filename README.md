@@ -35,7 +35,9 @@
 - [Fetal micro-deletion: simulation and detection in NIPT](Lecture_07/)
 
 [**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
-- [PDF](Lecture_08/)
+- [XAI-1](Lecture_08/XAI.pptx)
+- [XAI-2](Lecture_08/XAI.pptx)
+- [XAI-3](Lecture_08/XAI3.pptx)
 
 [**09. Deep Learning and Feature Visualization [Han, Phi, Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_09/)
 - [PDF](Lecture_09/)
@@ -43,19 +45,20 @@
 [**10. Spatial Analysis: Spatial Autocorrelation and Moran's I [Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_10/)
 - [PDF](Lecture_10/)
 
-[**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 22/11/2025; ROOM I.11b**](Lecture_11/)
+[**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 29/11/2025; ROOM I.11b**](Lecture_11/)
 - [PDF](Lecture_11/)
 
-[**12. Large Language Model in genetic variant classification  [Hong, Loi] - 3PM 22/11/2025; ROOM I.11b**](Lecture_12/)
+[**12. Large Language Model in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
 - [PDF](Lecture_12/)
 
-[**13. Course Review  [Loi] - 4PM 22/11/2025; ROOM I.11b**](Lecture_13/)
+[**13. Course Review  [Loi] - 4PM 29/11/2025; ROOM I.11b**](Lecture_13/)
 - [PDF](Lecture_11/)
 
-[**14. Master Thesis Projects  [Loi] - 4PM15 22/11/2025; ROOM I.11b**](Lecture_14/)
+[**14. Master Thesis Projects  [Loi] - 4PM15 29/11/2025; ROOM I.11b**](Lecture_14/)
 - [PDF](Lecture_14/)
 
-
+[**15. End Term Exam  [Loi] - ? ?/?/2026; ROOM ?**](Lecture_15/)
+- [PDF](Lecture_15/)
 
 
 
