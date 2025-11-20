@@ -34,7 +34,7 @@
 - [Classfification of Endometrial Cancer subtypes using DNA methylation](Lecture_07/)
 - [Fetal micro-deletion: simulation and detection in NIPT](Lecture_07/)
 
-[**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
+[**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, Loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
 - [XAI-1](Lecture_08/XAI.pptx)
 - [XAI-2](Lecture_08/XAI.pptx)
 - [XAI-3](Lecture_08/XAI3.pptx)
