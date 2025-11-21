@@ -44,6 +44,10 @@
 
 [**10. Spatial Analysis: Spatial Autocorrelation and Moran's I [Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_10/)
 - [PDF](Lecture_10/Lecture_10_Autocorrelation_and_Moran'I.pdf)
+- Practice:
+    + [Exercise 1](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html)     
+    + [Exercise 2](https://squidpy.readthedocs.io/en/stable/notebooks/examples/graph/compute_moran.html)
+    + [Exercise 3](https://jef.works/blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/)
 
 [**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 29/11/2025; ROOM I.11b**](Lecture_11/)
 - [PDF](Lecture_11/)
