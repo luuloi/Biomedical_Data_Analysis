@@ -52,7 +52,7 @@
 [**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 29/11/2025; ROOM I.11b**](Lecture_11/)
 - [PDF](Lecture_11/)
 
-[**12. Large Language Model in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
+[**12. Large Language Model/Agents in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
 - [PDF](Lecture_12/)
 
 [**13. Course Review  [Loi] - 4PM 29/11/2025; ROOM I.11b**](Lecture_13/)
