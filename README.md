@@ -70,7 +70,7 @@
 
 [**15. End Term Exam including 3 parts  [Loi] - 9 to 11:30 AM 03/01/2026; Online**](Exam/)
 - Oral exam (20%): two questions each student
-- 3 min and 1 slide Presentation of a group of 3 students (30%), 11 projects are listed below
+- 3 min and 1 slide Presentation of a group of max 3 students (30%), 12 projects are listed below
   + [Project 1: Alzheimer Prediction Using Gene Expression Dataset](https://www.kaggle.com/datasets/fereshteeslami/alzheimer-gene-expression-dataset)
   + [Project 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
   + [Project 3: Microarray Gene Expression Profiles for Leukemia Early Diagnosis Models](https://www.kaggle.com/datasets/ziya07/gene-expression-dataset)
