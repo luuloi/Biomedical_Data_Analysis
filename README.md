@@ -68,18 +68,20 @@
 - Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về cắt gan: liên hệ Zalo 0901802182
 - Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
-[**15. End Term Exam including 3 parts  [Loi] - ? ?/?/2026; ROOM ?**](Lecture_15/)
+[**15. End Term Exam including 3 parts  [Loi] - ? ?/?/2026; Online**](Lecture_15/)
 - Oral exam (20%): two questions each student
-- 3 min and 1 slide Presentation of a group of 3 students (30%), 10 projects are listed below
+- 3 min and 1 slide Presentation of a group of 3 students (30%), 11 projects are listed below
   + [Project 1: DNA methylation](Dataset/DNA_methylation_beta_value.csv)
   + [Project 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
   + [Project 3: Breast cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida)
-  + 
-- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student (50%)
-
-
-
-  
-
-
+  + [Project 4: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+  + [Project 5: Stroke Risk Prediction Dataset Based on Symptoms](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset)
+  + [Project 6: Brain Stroke CT Dataset](https://www.kaggle.com/datasets/ozguraslank/brain-stroke-ct-dataset)
+  + [Project 7: Brain stroke prediction dataset](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset)
+  + [Project 8: Elderly Fall Prediction and Detection](https://www.kaggle.com/datasets/laavanya/elderly-fall-prediction-and-detection)
+  + [Project 9: Curated Breast Imaging Subset DDSM Dataset (Mammography)](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset)
+  + [Project 10: Binary Classification Prediction for type of Breast Cancer](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
+  + [Project 11: Lung Cancer Risk](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
+    
+- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc.Dung (50%)
 
