@@ -67,13 +67,13 @@
 - Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
 [**15. End Term Exam including 3 parts  [Loi] - ? ?/?/2026; ROOM ?**](Lecture_15/)
-- Oral exam (30%): two questions each student
+- Oral exam (20%): two questions each student
 - 3 min and 1 slide Presentation of a group of 3 students (30%), 10 projects are listed below
   + [Project 1: DNA methylation](Dataset/DNA_methylation_beta_value.csv)
   + [Project 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
   + [Project 3: Breast cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida)
   + 
-- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student (40%)
+- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student (50%)
 
 
 
