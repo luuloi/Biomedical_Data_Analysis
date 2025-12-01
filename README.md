@@ -33,6 +33,7 @@
 - [PDF](Lecture_07/Lecture07_Interpretable_Machine_Learning.pdf)
 - [Classfification of Endometrial Cancer subtypes using DNA methylation](Lecture_07/)
 - [Fetal micro-deletion: simulation and detection in NIPT](Lecture_07/)
+- Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về NIPT: liên hệ Zalo 0901802182
 
 [**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, Loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
 - [XAI-1](Lecture_08/XAI.pptx)
@@ -41,6 +42,7 @@
 
 [**09. Deep Learning and Feature Visualization [Han, Phi, Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_09/)
 - [PDF](Lecture_09/)
+- Cần tuyến 2 bạn cao học làm đề tài tốt nghiệp về hình ảnh HE ung thư tuyền liệt tuyến và MRI/CT đột quỵ: liên hệ Zalo 0901802182
 
 [**10. Spatial Analysis: Spatial Autocorrelation and Moran's I [Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_10/)
 - [PDF](Lecture_10/Lecture_10_Autocorrelation_and_Moran'I.pdf)
@@ -54,13 +56,15 @@
 
 [**12. Large Language Model/Agents in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
 - [PDF](Lecture_12/Lecture_12_LLM_Agents_in_genetic_variant_classification.pdf)
-- [Cần tuyến 2 bạn cao học làm đề tài tốt nghiệp về ngôn ngữ lớn/Agents: liên hệ Zalo 0901802182]
+- Cần tuyến 2 bạn cao học làm đề tài tốt nghiệp về ngôn ngữ lớn/Agents: liên hệ Zalo 0901802182
 
 [**13. Course Review  [Loi] - 4PM 29/11/2025; ROOM I.11b**](Lecture_13/)
 - [PDF](Lecture_11/)
 
 [**14. Master Thesis Projects  [Loi] - 4PM15 29/11/2025; ROOM I.11b**](Lecture_14/)
 - [PDF](Lecture_14/)
+- Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về cắt gan: liên hệ Zalo 0901802182
+- Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
 [**15. End Term Exam  [Loi] - ? ?/?/2026; ROOM ?**](Lecture_15/)
 - [PDF](Lecture_15/)
