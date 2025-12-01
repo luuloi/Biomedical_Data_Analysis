@@ -73,7 +73,7 @@
 - 3 min and 1 slide Presentation of a group of 3 students (30%), 11 projects are listed below
   + [Project 1: Alzheimer Prediction Using Gene Expression Dataset](https://www.kaggle.com/datasets/fereshteeslami/alzheimer-gene-expression-dataset)
   + [Project 2: Cleveland Heart Disease](Dataset/Cleveland_Clinic_Heart_Disease_Dataset.csv)
-  + [Project 3: Breast cancer gene expression - CuMiDa](https://www.kaggle.com/datasets/brunogrisci/breast-cancer-gene-expression-cumida)
+  + [Project 3: Microarray Gene Expression Profiles for Leukemia Early Diagnosis Models](https://www.kaggle.com/datasets/ziya07/gene-expression-dataset)
   + [Project 4: Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
   + [Project 5: Stroke Risk Prediction Dataset Based on Symptoms](https://www.kaggle.com/datasets/mahatiratusher/stroke-risk-prediction-dataset)
   + [Project 6: Brain Stroke CT Dataset](https://www.kaggle.com/datasets/ozguraslank/brain-stroke-ct-dataset)
@@ -83,5 +83,5 @@
   + [Project 10: Binary Classification Prediction for type of Breast Cancer](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
   + [Project 11: Lung Cancer Risk](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
     
-- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc. Dung (50%)
+- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc. Dung before 4PM 31/12/2025 (50%)
 
