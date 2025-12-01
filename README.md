@@ -82,6 +82,7 @@
   + [Project 9: Curated Breast Imaging Subset DDSM Dataset (Mammography)](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset)
   + [Project 10: Binary Classification Prediction for type of Breast Cancer](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
   + [Project 11: Lung Cancer Risk](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
+  + [Project 12: Age Assessment & Disease Risk Prediction](https://www.kaggle.com/datasets/marquis03/age-assessment-and-disease-risk-prediction)
     
 - [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc. Dung before 4PM 31/12/2025 (50%)
 
