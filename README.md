@@ -68,7 +68,7 @@
 - Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về cắt gan: liên hệ Zalo 0901802182
 - Cần tuyến 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
-[**15. End Term Exam including 3 parts  [Loi] - ? ?/?/2026; Online**](Lecture_15/)
+[**15. End Term Exam including 3 parts  [Loi] - 9 to 11:30 AM 03/01/2026; Online**](Exam/)
 - Oral exam (20%): two questions each student
 - 3 min and 1 slide Presentation of a group of 3 students (30%), 11 projects are listed below
   + [Project 1: DNA methylation](Dataset/DNA_methylation_beta_value.csv)
@@ -83,5 +83,5 @@
   + [Project 10: Binary Classification Prediction for type of Breast Cancer](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
   + [Project 11: Lung Cancer Risk](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
     
-- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc.Dung (50%)
+- [min 5 pages, max 20 pages] Printed Report of the above Projects: one Report each student and submitted to Msc. Dung (50%)
 
