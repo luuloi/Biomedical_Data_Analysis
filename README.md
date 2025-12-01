@@ -85,5 +85,5 @@
   + [Project 11: Lung Cancer Risk](https://www.kaggle.com/datasets/mikeytracegod/lung-cancer-risk-dataset)
   + [Project 12: Age Assessment & Disease Risk Prediction](https://www.kaggle.com/datasets/marquis03/age-assessment-and-disease-risk-prediction)
     
-- [min 5 pages, max 20 pages] Printed Report of the above Projects (50%): one Report each student and submitted to Msc. Dung before 4PM 31/12/2025
+- [min 5 pages, max 20 pages] Printed Report of the above Projects (50%): one Report each student and submitted to Msc. Dung or Bsc. Phuong before 4PM 31/12/2025
 
