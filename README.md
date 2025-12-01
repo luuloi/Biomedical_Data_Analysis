@@ -53,7 +53,8 @@
 - [PDF](Lecture_11/)
 
 [**12. Large Language Model/Agents in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
-- [PDF](Lecture_12/)
+- [PDF](Lecture_12/Lecture_12_LLM_Agents_in_genetic_variant_classification.pdf)
+- [Cần tuyến 2 bạn cao học làm đề tài tốt nghiệp về ngôn ngữ lớn/Agents: liên hệ Zalo 0901802182]
 
 [**13. Course Review  [Loi] - 4PM 29/11/2025; ROOM I.11b**](Lecture_13/)
 - [PDF](Lecture_11/)
