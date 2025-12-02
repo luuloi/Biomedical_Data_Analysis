@@ -63,7 +63,7 @@
 [**13. Course Review  [Loi] - 4PM 29/11/2025; ROOM I.11b**](Lecture_13/)
 - [PDF](Lecture_13/)
 
-[**14. Master Thesis Projects  [Loi] - 4PM15 29/11/2025; ROOM I.11b**]
+**14. Master Thesis Projects  [Loi] - 4PM15 29/11/2025; ROOM I.11b**
 - Cần tuyển 1 bạn cao học làm đề tài tốt nghiệp về cắt gan: liên hệ Zalo 0901802182
 - Cần tuyển 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
