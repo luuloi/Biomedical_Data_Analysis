@@ -1,0 +1,5 @@
+# ignore large data
+Lecture_11/data/singlecell/processed_counts/*.csv
+Lecture_11/data/singlecell/processed_counts/*.rds
+
+Lecture_11/data/singlecell/results/*.rds
