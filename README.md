@@ -36,9 +36,9 @@
 - Cần tuyển 1 bạn cao học làm đề tài tốt nghiệp về NIPT: liên hệ Zalo 0901802182
 
 [**08. An introduction to explainable AI (XAI) with Shapley values [Thanh, Loi] - 18PM 19/11/2025; ROOM I.91**](Lecture_08/)
-- [XAI-1](Lecture_08/XAI.pptx)
-- [XAI-2](Lecture_08/XAI.pptx)
-- [XAI-3](Lecture_08/XAI3.pptx)
+- [XAI-Linear Explainer](Lecture_08/XAI.pptx)
+- [XAI-Tree SHAP](Lecture_08/XAI3.pptx)
+- [XAI-Gradient Explainer](Lecture_08/XAI2.pptx)
 
 [**09. Deep Learning and Feature Visualization [Han, Phi, Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_09/)
 - [PDF](Lecture_09/)
