@@ -39,6 +39,9 @@
 - [XAI-Linear Explainer](Lecture_08/XAI.pptx)
 - [XAI-Tree SHAP](Lecture_08/XAI3.pptx)
 - [XAI-Gradient Explainer](Lecture_08/XAI2.pptx)
+- [Bài tập XAI DNA](Lecture_08/DNA_XAI.ipynb)
+- [Bài tập Linear và Tree Explainer](Lecture_08/diabets_XAI.ipynb)
+- [Bài tập Gradient XAI](Lecture_08/xray_XAI.ipynb)
 
 [**09. Deep Learning and Feature Visualization [Han, Phi, Loi] - 18PM 21/11/2025; ROOM I.91**](Lecture_09/)
 - [PDF](Lecture_09/)
