@@ -52,7 +52,11 @@
     + [Exercise 3](https://jef.works/blog/2024/08/29/the-many-ways-to-detect-svgs-using-moransI/)
 
 [**11. Single cell RNA-seq Analysis and Spatial Transcriptomic Analysis [Duy, Loi] - 2PM 29/11/2025; ROOM I.11b**](Lecture_11/)
-- [PDF](Lecture_11/)
+- [PDF](Lecture_11/slide/)
+- [Exercise 1](Lecture_11/code/01_sc_preprocess_nsclc.ipynb)
+- [Exercise 2](Lecture_11/code/02_sc_annotation_nsclc.ipynb)
+- [Exercise 3](Lecture_11/code/03_spatial_autocorrelation_nsclc.ipynb)
+- [Example Data](Lecture_11/data/)
 
 [**12. Large Language Model/Agents in genetic variant classification  [Hong, Loi] - 3PM 29/11/2025; ROOM I.11b**](Lecture_12/)
 - [PDF](Lecture_12/Lecture_12_LLM_Agents_in_genetic_variant_classification.pdf)
