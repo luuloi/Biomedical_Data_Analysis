@@ -28,6 +28,7 @@
 
 [**06. Logistic Regression and Odds Ratio [Loi] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/Lecture06_Logistic_Regression.pdf)
+- [Generate Odds Ratio plots from logistic regression models.](https://craig-parylo.github.io/plotor/)
 
 [**07. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_07/)
 - [PDF](Lecture_07/Lecture07_Interpretable_Machine_Learning.pdf)
