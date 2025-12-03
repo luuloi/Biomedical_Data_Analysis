@@ -28,6 +28,9 @@
 
 [**06. Logistic Regression and Odds Ratio [Loi] - 14PM 15/11/2025; ROOM I.11b**](Lecture_06/)
 - [PDF](Lecture_06/Lecture06_Logistic_Regression.pdf)
+- [Exercise 1](https://www.ahajournals.org/doi/10.1161/circulationaha.106.682658)
+- [Exercise 2](https://www.redjournal.org/article/S0360-3016(21)02646-8/fulltext)
+- [Exercise 3](https://www.kaggle.com/datasets/captainozlem/framingham-chd-preprocessed-data)
 - [Generate Odds Ratio plots from logistic regression models.](https://craig-parylo.github.io/plotor/)
 
 [**07. An introudction to Interpretable Machine Learning [Loi, Quan, Cong] - 14PM 15/11/2025; ROOM I.11b**](Lecture_07/)
