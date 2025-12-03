@@ -18,6 +18,9 @@
 
 [**03. Embedded Methods (Lasso) for Feature Selection [Loi] - 08/11/2025; ROOM I.11b**](Lecture_03/)
 - [PDF](Lecture_03/Lecture03_Embedded_Methods.pdf)
+- [Lasso in python](https://medium.com/@lomashbhuva/lasso-regression-l1-regularization-explained-with-practical-examples-a2560a784af2)
+- [Exercise 1](https://www.kaggle.com/code/tilii7/modeling-stroke-dataset-with-lasso-regression/input)
+- [Exercise 2](https://www.kaggle.com/code/galibce003/ridge-lasso-elastic-net-diabetes-dataset/notebook)
 
 [**04. Foundation of Information Theory [Loi] - 18PM 12/11/2025; ROOM I.91**](Lecture_04/)
 - [PDF](Lecture_04/Lecture04_Foundation_Information_Theory.pdf)
