@@ -82,7 +82,7 @@
 - Cần tuyển 1 bạn cao học làm đề tài tốt nghiệp về cắt gan: liên hệ Zalo 0901802182
 - Cần tuyển 1 bạn cao học làm đề tài tốt nghiệp về đột quỵ: liên hệ Zalo 0901802182
 
-[**15. End Term Exam including 3 parts  [Loi] - 14 to 16:30 PM 04/01/2026; Online**](https://docs.google.com/spreadsheets/d/15TNP06FG7wLWVFVARfaZKG5_lUKGEJ_SMkIBP0LR1f8/edit?usp=sharing)
+[**15. End Term Exam including 3 parts  [Loi] - 14 to 16:30 PM 11/01/2026; Online**](https://docs.google.com/spreadsheets/d/15TNP06FG7wLWVFVARfaZKG5_lUKGEJ_SMkIBP0LR1f8/edit?usp=sharing)
 - [Exam Registration before 4PM 08/12/2025](https://docs.google.com/spreadsheets/d/15TNP06FG7wLWVFVARfaZKG5_lUKGEJ_SMkIBP0LR1f8/edit?usp=sharing)
 - Oral exam (20%): two questions each student
 - 3 min and 1 slide Presentation of a group of max 3 students (30%), 12 projects are listed below
